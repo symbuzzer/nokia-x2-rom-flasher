@@ -1,4 +1,4 @@
-# nokia-x2-rom-flasher
+# Nokia X2 Rom Flasher
 Universal rom flasher for Nokia X2  
   
 HOW TO USE:  
